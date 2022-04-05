@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Bible",
+      "author": "Me"
+    },
+    {
+      "id": "2",
+      "title": "Java ist auch eine Insel",
+      "author": "Christian Ullenboom"
+    }
+  ],
+  "movies": [
+    {
+      "id": "1",
+      "title": "Harry Potter"
+    }
+  ]
+}
