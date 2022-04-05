@@ -9,12 +9,47 @@
       "id": "2",
       "title": "Java ist auch eine Insel",
       "author": "Christian Ullenboom"
+    },
+    {
+      "id": "978-1-60309-025-4",
+      "title": "The Years Have Pants",
+      "author": "Alec"
+    },
+    {
+      "id": "978-1-891830-85-3",
+      "title": "American Elf",
+      "author": "James Kochalka"
+    },
+    {
+      "id": "978-1-60309-442-9",
+      "title": "Belzebubs",
+      "author": "JP Ahonen"
+    },
+    {
+      "id": "9780132350884",
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert Martin"
+    },
+    {
+      "id": "978-3-95470-188-9",
+      "title": "Die Kackwurstfabrik",
+      "author": "Marja Baseler"
+    },
+    {
+      "id": "0135957052",
+      "title": "The Pragmatic Programmer: journey to mastery",
+      "author": "David Thomas"
+    },
+    {
+      "id": "978-3-407-79230-3",
+      "title": "Der Grüffelo",
+      "author": "Axel Scheffler"
     }
   ],
   "movies": [
     {
       "id": "1",
-      "title": "Harry Potter"
+      "title": "The IT Crowd"
     }
   ]
 }
