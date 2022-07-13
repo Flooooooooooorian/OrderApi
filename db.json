@@ -1,60 +1,77 @@
 {
-  "books": [
+  "orders": [
     {
-      "id": "1",
-      "title": "Bible",
-      "author": "Me"
+      "id": 9413,
+      "products": [
+        {
+          "id": 513,
+          "name": "Wasser"
+        },
+        {
+          "id": 795,
+          "name": "Toilettenpapier"
+        },
+        {
+          "id": 458,
+          "name": "Milch"
+        },
+        {
+          "id": 189,
+          "name": "Brot"
+        }
+      ]
     },
     {
-      "id": "978-3-8362-8745-6",
-      "title": "Java ist auch eine Insel",
-      "author": "Christian Ullenboom"
+      "id": 6949,
+      "products": [
+        {
+          "id": 513,
+          "name": "Wasser"
+        },
+        {
+          "id": 458,
+          "name": "Milch"
+        }
+      ]
     },
     {
-      "id": "978-1-60309-025-4",
-      "title": "The Years Have Pants",
-      "author": "Alec"
-    },
-    {
-      "id": "978-1-891830-85-3",
-      "title": "American Elf",
-      "author": "James Kochalka"
-    },
-    {
-      "id": "978-1-60309-442-9",
-      "title": "Belzebubs",
-      "author": "JP Ahonen"
-    },
-    {
-      "id": "9780132350884",
-      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
-      "author": "Robert Martin"
-    },
-    {
-      "id": "978-3-95470-188-9",
-      "title": "Die Kackwurstfabrik",
-      "author": "Marja Baseler"
-    },
-    {
-      "id": "0135957052",
-      "title": "The Pragmatic Programmer: journey to mastery",
-      "author": "David Thomas"
-    },
-    {
-      "id": "978-3-407-79230-3",
-      "title": "Der Grüffelo",
-      "author": "Axel Scheffler"
-    },
-    {
-      "id": "978-3551551672",
-      "title": "Harry Potter und der Stein der Weisen",
-      "author": "J.K. Rowling"
+      "id": 1354,
+      "products": [
+        {
+          "id": 971,
+          "name": "Waschmittel"
+        },
+        {
+          "id": 666,
+          "name": "Bier"
+        }
+      ]
     }
   ],
-  "movies": [
+  "products": [
     {
-      "id": "1",
-      "title": "The IT Crowd"
+      "id": 513,
+      "name": "Wasser"
+    },
+    {
+      "id": 795,
+      "name": "Toilettenpapier"
+    },
+    {
+      "id": 458,
+      "name": "Milch"
+    },
+    {
+      "id": 189,
+      "name": "Brot"
+    },
+    {
+      "id": 971,
+      "name": "Waschmittel"
+    },
+    {
+      "id": 666,
+      "name": "Bier"
     }
   ]
 }
